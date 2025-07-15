@@ -119,7 +119,7 @@ $('#yes').click(function() {
         if (result.value) {
             Swal.fire({
                 width: 900,
-                confirmButtonText: 'Okiiiii lun <3',
+                confirmButtonText: 'Okayyyy <3',
                 background: '#fff url("img/iput-bg.jpg")',
                 title: 'I knew it ^^ I like you! 300.000',
                 text: "I’m coming to pick you up tonight, let’s go outtttttt! :v And what are you waiting for? Inbox me nowwwww!",
