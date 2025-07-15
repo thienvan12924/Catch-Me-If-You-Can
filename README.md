@@ -1,5 +1,5 @@
 # Catch-Me-If-You-Can
-Welcome to the Unclickable Button Trick – a fun project to prank your friends or even impress your crush! 😜
+Welcome to the Catch Me If You Can – a fun project to prank your friends or even impress your crush! 😜
 
 How it works:
 When you hover over Button1, it moves away, making it impossible to click. Only Button2 is clickable. Perfect for a playful challenge or a sneaky way to catch someone's attention! 😆
